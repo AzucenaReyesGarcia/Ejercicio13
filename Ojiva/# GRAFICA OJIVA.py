@@ -1,4 +1,4 @@
-#  GRAFICA OJIVA
+GRAFICA OJIVA
 
 import matplotlib.pyplot as plt
 print("Setup terminado")
@@ -29,4 +29,4 @@ plt.xlabel("Marcas de clase", fontsize = 25)
 plt.ylabel("Frecuencia acumulada", fontsize = 25)
 plt.title("Ojiva", fontsize = 40)
 plt.grid(True)
-plt.show() 
+plt.show()
