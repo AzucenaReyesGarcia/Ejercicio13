@@ -13,7 +13,6 @@
 <th>Frec. Acumulada</th>
 </tr>
 </thead>
-​
 <tbody>
 <tr>
 <td>275</td>
